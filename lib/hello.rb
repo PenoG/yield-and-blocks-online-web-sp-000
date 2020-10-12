@@ -1,4 +1,4 @@
-hello_t(names) do {|name| puts name}
+hello_t(array) do {|name| puts name}
 
 # call your method here!
 
