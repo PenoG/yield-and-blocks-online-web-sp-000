@@ -1,6 +1,4 @@
-def hello_t(array)
-  array.each {|x| print x}
-end
+hello_t(names){ |name| puts name }
 
 # call your method here!
 
