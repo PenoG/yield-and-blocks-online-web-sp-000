@@ -1,4 +1,4 @@
-hello_t(array).each do |name|
+["Tim", "Tom", "Jim"].each do |name|
   puts "#{name}"
 end
 
