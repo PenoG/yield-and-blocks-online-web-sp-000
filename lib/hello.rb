@@ -1,5 +1,5 @@
 def hello_t(array)
-  array.each do {|x| print x}
+  array.each {|x| print x}
 end
 
 # call your method here!
